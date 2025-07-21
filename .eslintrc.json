@@ -1,0 +1,19 @@
+{
+  "env": {
+    "browser": true,
+    "es2022": true,
+    "amd": true,
+    "commonjs": true,
+    "node": true
+  },
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "rules": {
+    "indent": ["error", 2],
+    "quotes": ["error", "single"],
+    "no-extra-semi": "off"
+  }
+}

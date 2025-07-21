@@ -1,0 +1,6 @@
+/node_modules/
+eruda-miniapp-plugin.js
+eruda-miniapp-plugin.js.map
+package-lock.json
+bun.lock
+.cursor/
